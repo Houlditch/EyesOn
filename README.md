@@ -4,7 +4,7 @@
 1. [About the Project](#about-the-project)
 1. [Project Status](#project-status)
 1. [Getting Started](#getting-started)
-1. [Contributers](#contributers)
+1. [Contributors](#contributors)
 
 # About the Project
 The vision for this program is to help keep "eyes on" dependent individuals. It will use google locationSharing to calculate certain criteria that, when met, will send a notification to a sponsor's device. 
@@ -43,7 +43,7 @@ Active as of 08/06/2019
 *How to run tests
 *How to use your project, or API usage information
 
-# Contributers
+# Contributors
 *Additional setup steps that are specific for development
 *How users can contribute to your project
 *What kinds of assistance you are looking for
