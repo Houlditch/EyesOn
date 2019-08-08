@@ -1,3 +1,3 @@
 # Software Requirement Specification (SRS)
 
-[What is SRS?](./WhatIsSRS)
+[What is SRS?](./WhatIsSRS.md)
