@@ -3,16 +3,11 @@ A Software requirements specification document describes the intended purpose, r
 This is a table of contents for an SRS
 
 1. Introduction
-
-*1. Purpose
-
-*2. Document Conventions
-
-*3. Intednded Audience and Reading Suggestions
-
-*4. Project Scope
-
-*5. References
+* Purpose
+* Document Conventions
+* Intednded Audience and Reading Suggestions
+* Project Scope
+* References
 
 2. Overall Description
 
