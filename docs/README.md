@@ -1,7 +1,7 @@
 # Featured Documents
 
 ## Table of Contents
-1. [Software Development Life Cycle](/DevelopmentStages)
+1. [Software Development Life Cycle](/DevelopmentStages/README.md)
 
 
 
