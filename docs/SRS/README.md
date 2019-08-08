@@ -1,1 +1,1 @@
-[What is Software Requirement Specification?](./WhatIsSRS.md)
+[What is the Software Requirement Specification document?](WhatIsSRS.md)
