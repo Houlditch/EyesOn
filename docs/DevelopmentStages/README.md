@@ -11,25 +11,25 @@
 1. [Maintenance and bug fixing](#maintenance-and-bug-fixing)
 
 # Analyzing the problem
-[Analyzing the problem](docs/DevelopmentStages/01Analyze.md)
+[Analyzing the problem](01Analyze.md)
 
 # Market research
-[Market research](docs/DevelopmentStages/02MarketResearch.md)
+[Market research](02MarketResearch.md)
 
 # Gathering requirements for the proposed business solution
-[Gathering requirements](docs/DevelopmentStages/03RequirementsGathering.md)
+[Gathering requirements](03RequirementsGathering.md)
 
 # Devising a plan or design for the software-based solution
-[Planning and Design](docs/DevelopmentStages/04Design.md)
+[Planning and Design](04Design.md)
 
 # Implementation (coding) of the software
-[Implementation](docs/DevelopmentStages/05ImplementationCoding.md)
+[Implementation](05ImplementationCoding.md)
 
 # Testing the software
-[Testing](docs/DevelopmentStages/06Testing.md)
+[Testing](06Testing.md)
 
 # Deployment
-[Deployment](docs/DevelopmentStages/07Deployment.md)
+[Deployment](07Deployment.md)
 
 # Maintenance and bug fixing
-[Maintenance](docs/DevelopmentStages/08MaintenanceBugFixing.md)
+[Maintenance](08MaintenanceBugFixing.md)
