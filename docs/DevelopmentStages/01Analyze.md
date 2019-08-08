@@ -2,4 +2,6 @@ Requirement gathering and analysis: Business requirements are gathered in this p
 
 Finally, a Requirement Specification document(SRS) is created which serves the purpose of guideline for the next phase of the model. The testing team follows the Software Testing Life Cycle and starts the Test Planning phase after the requirements analysis is completed.
 
+[requirments gathering](03RequirementsGathering.md)
+
 [Return](README.md)
