@@ -1,5 +1,7 @@
 # Software Development Life Cycle (SDLC)
 
+![SDLC-INFOGRAPHIC](../../images/SDLC.jpg)
+
 ## Table of Contents
 1. [Analyzing the problem](01Analyze.md)
 1. [Planning and Design](04Design.md)
