@@ -1,5 +1,5 @@
-use case diagram
+[use case diagram](UseCaseDiagram.md)
 
-context diagram
+[context diagram](ContextDiagram.md)
 
-functional decomposition diagram
+[functional decomposition diagram](FunctionalDecompositionDiagram.md)
