@@ -197,6 +197,81 @@ While your team may very well know the answers to all of the above, knowing does
 
 The above questions easily prompt a few pages of requirements, depending on the number of extensions applicable to the build. With this particular example, there were more than 100 extensions implemented on the current VERSION 1 of the platform. Needless to say…chaos ensued. I’ll leave the rest of that story to your imagination.
 
+# Requirements Gathering Techniques
+
+#### 1. Start Right Away
+
+#### 2. Make Use Of Templates
+[document templates](https://thedigitalprojectmanager.com/requirements-gathering-guide/#documenttemplate)
+
+#### 3. Teamwork
+
+It’s highly unlikely you’ll have just one individual drumming up project requirements—this is where requirements elicitation comes in. If there are different types of resources on a project (e.g. User Experience Designer, User Interface Designer, Software Engineer, Frontend Developer, Digital Strategist, Content Architect, etc.), the requirements for each area of expertise may be authored by the respective experts.
+
+Have you ever played telephone? Of course you have. When a DPM scribes documentation that originated in the mind of a developer (or a strategist, or a designer), you run the risk of something getting lost in translation. In many cases, the conversation about requirements is a winding trail of phone calls, various separate meetings and conversations, etc. This is where is is critical that you, as the DPM, assign out requirements documentation to respective team members in order to elicit and compile requirements.
+
+To help your team with requirements elicitation, make sure you:
+
+* provide documentation templates
+* capture and share your notes
+* arrange for the right conversations to happen
+* facilitate requirements documentation planning meetings and reviews
+* put the final touches on the documentation
+
+By the time you start writing the requirements for your requirements documentation, you should already have had multiple points of checks and balances related to requirements, including:
+
+* Client meetings (where designs were reviewed and at least softly approved)
+* Shared nots (where decisions were captured, reviewed by both internal and client team, and confirmed as valid)
+* Internal review/handoff (where designs were reviewed and page elements were confirmed)
+That said, make sure you leverage your team members as you need to complete the requirements sufficiently.
+
+#### 4. Don’t Just Record Requirements—Learn
+Do more than take notes. Expect more than resources emailing you a wall of text comprising their portion of the requirements. Take the time to sit down with your team of developers and learn the solutions the team has in mind for implementation. Discuss why and how. Ask questions.
+
+Before you say, “But we only have so much time in the day—and what about the budget?”, understand this: if a solution you’re working on is applicable to more than one project, then this additional time for getting an understanding does not necessarily need to be billable. You’re growing your subject matter expertise that directly improves your day-to-day work.
+
+#### 5. Keep Your Client In The loop
+
+Requirements documentation does not have to be Level 1 Confidentiality with a big red Top Secret stamped diagonally across the front page. While you can absolutely have an internal requirements document where you’re less worried about including more transparent notes, it doesn’t hurt to have a client-facing WIP requirements document.
+
+If you’re not dealing with sensitive information, you can create this shared space through a Google Doc, with permissions enabled for the client to comment.
+
+If you are dealing with sensitive information, share a version of the requirements document on a weekly basis to provide a client a snapshot of what’s been captured. After all, this is a document they’ll eventually have to sign off on.
+
+#### 6. Assume Your Client Knows Nothing
+
+Rather than running the risk of assuming your client knows more than they do (then having that burn you later on when they truly didn’t know the difference between “plug-in solution” and “custom solution”), assume your client knows nothing. Define as much as you can. How? For each annotation, ask yourself “Why?” five times to ensure thoroughness of each requirement.
+
+Here is an example of asking “Why?” 5 times in order to define your requirements:
+
+Annotation for Registration Page:
+User Store Location must be a dropdown selection.
+
+Why?
+Text field input increases the risk of errors in user entry. Dropdown selection limits the number of options from which a user may choose.
+
+Why?
+If there was a text field input, “MINNEAPOLIS” could be entered in as “MINNEAPOLIS” or “MPLS” or “Mini-apple-us” and data would be messy. This is not good. A drop down selection limits the options to whichever options the admin enters into the backend admin panel. This limited selection is good, for sake of accuracy.
+
+Why?
+The client wants to use their user data in order to eventually segment content based on user location.
+
+Why?
+This client has content specific to location/region based on the products they offer.
+
+Why?
+Because BUSINESS.
+
+Asking yourself “Why?” five times for each requirement also challenges you to really consider the logic behind every element and functionality of each page type. You may be surprised with how much you learn (or realize you need to learn).
+
+# Some Expert Tips: How To Write A Project Requirements Document
+#### 1. Write Requirements For Global Elements Separately
+To eliminate redundancy, cover all global elements in a “Global Elements” section of your requirements documentation. This is applicable for global elements such as your main navigation menu items, anything within your global header, and anything within your footer. Once you’ve written requirements for these global elements, do not bother annotating them throughout the other pages; only annotate elements specific to those pages.
+#### 2. Copy-Paste Identical Functionality To Ensure Consistency
+This is merely a tip to keep in mind for your  (and your client’s) sanity. You’ll see this most with common page elements such as hero/banner images, headers, or “back” icons…among a large number of repeated functionality across page types (not to be confused with global elements). This is not new age Google SEO Strategy where you have to worry about repeating words or phrases, and this is not your Grade 9 English Essay where you have to make the same idea sound profound by rewording it six different times. This is requirements documentation.
+#### 3. Acknowledge Admin And CMS (Or Lack Thereof)
+When we are so focused on functionality of each page element, it is easy to disregard administrative and/or CMS functionality. If you’re implementing a solution which offers administrative and/or CMS functionality, be sure to include this as its own column in your requirements. Example below:
+#### 
 
 ## Helpful Tools
 
