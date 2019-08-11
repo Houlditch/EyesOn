@@ -1,4 +1,4 @@
-case diagram
+use case diagram
 
 context diagram
 
