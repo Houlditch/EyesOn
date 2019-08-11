@@ -54,7 +54,7 @@ Shipping internationally, to Alaska, or to Hawaii
 Tax rules
 Remember: the smaller the delta between client expectation and reality with their digital product, the happier your client is going to be with the end result.
 
-#Requirements Gathering Process
+# Requirements Gathering Process
 
 #### 1. Take notes
 In every meeting you’re in—whether that be internal with your project team or external with your client—always take notes. Never assume someone else is taking them. Chances are…they aren’t.
