@@ -54,7 +54,9 @@ Shipping internationally, to Alaska, or to Hawaii
 Tax rules
 Remember: the smaller the delta between client expectation and reality with their digital product, the happier your client is going to be with the end result.
 
-### Take notes
+#Requirements Gathering Process
+
+#### 1. Take notes
 In every meeting you’re in—whether that be internal with your project team or external with your client—always take notes. Never assume someone else is taking them. Chances are…they aren’t.
 
 Digital Projects Managers are not secretaries, but there is an expectation that we capture action items, needs for clarification, opportunities for additional research/discussion, and any other important information discussed in meetings. In the moment, it may be easy to assume everything being discussed will be remembered, but 3 months and 15 meetings later, your team and your client will thank you for having a record of those discussions to look back on.
@@ -68,7 +70,7 @@ Once the team has given you their blessing, send your notes to your client.
 Finally, leverage your notes as reference for creating tasks (e.g. JIRA tasks) out of each action item. Add any new information into your requirements documentation, and schedule any needed meetings for additional discovery or discussion.
 Save your notes in a shared space, perhaps within a “Meeting Notes” folder of a Google Drive instance, so that your project team members are able to easily access and reference them in the future.
 
-### Go Over The Creative Requirements
+#### 2. Go Over The Creative Requirements
 Don’t leave design and styling decisions up for grabs: provide creative requirements whenever possible. If your timeline and budget allows, creative guidance is invaluable for developers. While you may find that rare unicorn developer who doubles as a designer, more often than not you’ll find a developer is best at developing; do not task them with the design.
 
 At the very least, provide a style guide—even if the style guide is as bare bones as font and brand colors. Ideally, you will have both wireframes and full user interface designs for mobile and desktop across all page types.
@@ -77,7 +79,7 @@ Once you have gathered them, upload all the creative assets to shared space for 
 
 When creative is finalized and formally approved by the client, it’s valuable to schedule an internal handoff meeting for the project team; this presents an opportunity for your creative team members to smoothly hand off their work to the development team members. It also allows for discussion to ask questions, clear up needs for clarification, and reduce the risk of developer assumptions—an otherwise dangerous game. Your “creative team” may not be limited to your UX/UI designers; this may also include a digital strategist to speak for the user journeys, or a content architect to discuss the sitemap. Include everyone who contributed to deliverables thus far, which will inevitably play into the development, production, and implementation ahead.
 
-### Make Annotations
+#### 3. Make Annotations
 Once you’ve handed off the deliverables from creative to development, it’s time to annotate your page elements across all page types. This can include static vs. carousel hero images, dropdowns vs. text fields in webforms, dropdowns vs. slideouts, pop-up modals vs. new page loads, and any other functionality on each page type.
 
 Only annotate pages once they are absolutely final. There is nothing worse than having to re-annotate a page with 35 elements on it just because a pagination bullet shadow was removed (okay—there are worse things, but you get my point).
@@ -113,7 +115,7 @@ Includes a definition (the requirements, spelled out) for each element
 Admin/CMS functionality
 Define any administrative and/or CMS functionality, as is related to the corresponding element
 
-### Hold An Internal Review
+#### 4. Hold An Internal Review
 
 Once you have completed your first draft of the requirements documentation, crack a beer. Or a root beer. Enjoy it. But only one. There is still work to do. And I promise: the work up front is worth it.
 
@@ -125,7 +127,7 @@ As part of the internal review phase, you’ll need to make any necessary revisi
 
 Once the internal project team provides their final approval of the requirements documentation, save the document as a PDF (here’s some info on PDFs and how to edit PDFs) to ensure that remains in its finalized state for the next step: task buildout.
 
-### Build Out Tasks
+#### 5. Build Out Tasks
 
 Provide the PDF version of the requirements documentation to your development team. Ideally, your developers or development lead will perform the task buildout for the build. While some organizations may operate under a process where DPMs build out all tasks, I prefer to have developers build out their own tasks; the handful of hours it takes for them is worth it. This allows developers to build out tasks in a way that suits their development approach.
 
@@ -149,7 +151,7 @@ mind-blown
 
 At this point, you compare that projection to the timeline that has been communicated to your client previously, and manage accordingly if/as needed. For more on estimating projects, see this complete [project estimation guide](https://thedigitalprojectmanager.com/project-budget-cost-estimation-guide/).
 
-### Hold An External Review
+#### 6. Hold An External Review
 
 At this point, you have:
 
