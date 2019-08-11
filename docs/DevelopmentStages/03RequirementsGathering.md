@@ -56,6 +56,8 @@ Remember: the smaller the delta between client expectation and reality with thei
 
 # Requirements Gathering Process
 
+ ![RequirementsGatheringProcess, RGP.png](../../images/RequirementsGatheringProcess.png)
+
 #### 1. Take notes
 In every meeting you’re in—whether that be internal with your project team or external with your client—always take notes. Never assume someone else is taking them. Chances are…they aren’t.
 
@@ -101,7 +103,7 @@ Payment Page
 Confirmation Page
 If you do not have a user journey to leverage, then organize your annotate page designs in a way that makes sense for your client. Homepage is always a safe bet for a first design to display in your requirements documentation – likely it’s the page design with which your client is most familiar at this point. Remember: at this point of the engagement, nothing you are including within the requirements documentation should be a surprise for your client. This is not a vehicle for presenting anything new to them; this documentation formalizes what has already been discussed, decided, and (at least softly) approved by your client.
 
-### Write The Requirements Document
+#### 4. Write The Requirements Document
 As you dive into documentation, remember: your first go at requirements documentation will be the most difficult. Why? Because you do not have a previous document from which to leverage (aka COPY-PASTE). Lucky for you, dear DPM friend, this article includes a requirements documentation template to serve as a foundation for you.
 
 As displayed in this template, I organize my requirements documentation into four parts:
@@ -115,7 +117,7 @@ Includes a definition (the requirements, spelled out) for each element
 Admin/CMS functionality
 Define any administrative and/or CMS functionality, as is related to the corresponding element
 
-#### 4. Hold An Internal Review
+#### 5. Hold An Internal Review
 
 Once you have completed your first draft of the requirements documentation, crack a beer. Or a root beer. Enjoy it. But only one. There is still work to do. And I promise: the work up front is worth it.
 
@@ -127,7 +129,7 @@ As part of the internal review phase, you’ll need to make any necessary revisi
 
 Once the internal project team provides their final approval of the requirements documentation, save the document as a PDF (here’s some info on PDFs and how to edit PDFs) to ensure that remains in its finalized state for the next step: task buildout.
 
-#### 5. Build Out Tasks
+#### 6. Build Out Tasks
 
 Provide the PDF version of the requirements documentation to your development team. Ideally, your developers or development lead will perform the task buildout for the build. While some organizations may operate under a process where DPMs build out all tasks, I prefer to have developers build out their own tasks; the handful of hours it takes for them is worth it. This allows developers to build out tasks in a way that suits their development approach.
 
@@ -151,7 +153,7 @@ mind-blown
 
 At this point, you compare that projection to the timeline that has been communicated to your client previously, and manage accordingly if/as needed. For more on estimating projects, see this complete [project estimation guide](https://thedigitalprojectmanager.com/project-budget-cost-estimation-guide/).
 
-#### 6. Hold An External Review
+#### 7. Hold An External Review
 
 At this point, you have:
 
