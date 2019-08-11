@@ -203,6 +203,8 @@ The above questions easily prompt a few pages of requirements, depending on the 
 
 # Requirements Gathering Techniques
 
+![RequirementsGatheringTechniques, RGT.png](../../images/RequirementsGatheringTechniques.png)
+
 #### 1. Start Right Away
 
 #### 2. Make Use Of Templates
