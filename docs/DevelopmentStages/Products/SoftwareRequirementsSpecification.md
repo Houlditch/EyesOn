@@ -2,12 +2,12 @@
 # Software Requirements Specification
 for
 
-### <Project>
+### <em>Project</em>
 
-### Version 1.0 approved
+### <em> Version 1.0 approved </em>
 
-### Prepared by <author>
+### Prepared by <em>author</em>
 
-### <organization>
+### <em>organization</em>
 
-### <date created>
+### <em>date created</em>
