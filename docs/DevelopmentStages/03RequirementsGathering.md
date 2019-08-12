@@ -108,13 +108,13 @@ As you dive into documentation, remember: your first go at requirements document
 
 As displayed in this template, I organize my requirements documentation into four parts:
 
-Annotation
+1. Annotation
 Includes the numbers from your annotated design. If your page design has 8 elements on it, you will have 8 annotations, and your annotation column will have 8 rows
-Element
+2. Element
 Includes element titles, as they relate to each annotation
-Functional requirement
+3. Functional requirement
 Includes a definition (the requirements, spelled out) for each element
-Admin/CMS functionality
+4. Admin/CMS functionality
 Define any administrative and/or CMS functionality, as is related to the corresponding element
 
 #### 5. Hold An Internal Review
